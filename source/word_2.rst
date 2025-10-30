@@ -124,6 +124,7 @@ ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpile
 .. figure:: _static/images/word/kouetsu3.png
 
 | また、コメントを加えたい部分を選択し、校閲タブの「新しいコメント」を選べば、文章にコメントを添付することもできます。
+| コメントは文章を選択し右クリックからも選ぶ事が出来ます。
 
 .. figure:: _static/images/word/kouetsu4.png
 
