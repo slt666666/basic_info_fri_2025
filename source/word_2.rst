@@ -98,6 +98,11 @@ ZoteroやMendeley, EndNoteなどが有名です。有料のものだとPaperpile
 | 録画: `録画保管場所のリンク <https://cls.iimc.kyoto-u.ac.jp/portal/site/6c851694-057e-4a42-885e-0f38d4a61af4/page/c7cc5d1d-c671-4380-9f2e-df795a3e4118>`_
 | 資料: `資料のリンク <https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/255602>`_
 
+| 文献管理ソフトの多くはWordと連携していることが多く、論文を引用する際にフォーマット等を自動で整えてくれます。
+| 皆さんはまだまだ先の話かと思いますが、論文を書く際には、場合によっては100近くの論文を引用するため非常に便利な機能になります。
+
+.. figure:: _static/images/word/paperpile.png
+
 その他の文書作成ソフト
 ^^^^^^^^^^^^^^^^^^^^^^
 | Wordが最もポピュラーな文書作成ソフトですが、特に工学系・理学系の分野の人達はTeXやLaTeXなどを使ってレポートや論文を作成することが多い印象です。
